@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Fresh-Tracks/avalanche/metrics"
+	"github.com/kfkonrad/avalanche/metrics"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
 
